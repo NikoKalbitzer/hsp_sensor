@@ -1,0 +1,2 @@
+Aduino: 
+PC0-PC5: analog -> nimmt spannung -> bruachen wir für mq135
